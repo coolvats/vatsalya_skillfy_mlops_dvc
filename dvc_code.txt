@@ -1,1 +1,2 @@
 Data added for DVC practice.
+Horse folder related data removed
