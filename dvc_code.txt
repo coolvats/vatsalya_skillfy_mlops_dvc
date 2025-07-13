@@ -1,2 +1,3 @@
 Data added for DVC practice.
 Horse folder related data removed
+Few content of car folder removed
